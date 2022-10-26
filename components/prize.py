@@ -1,5 +1,9 @@
 class Prize:
+    first_checkpoint = 5
+    second_checkpoint = 10
+    third_checkpoint = 15
     amounts = {
+        0: 0,
         1: 100,
         2: 200,
         3: 300,
